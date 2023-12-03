@@ -96,7 +96,7 @@ body{
     border: 1px solid white;
     border-radius: 50%;
     margin-left: 100px;
-    background-image: url('/home/daksh/Downloads/profile-img.jpeg');
+    background-image: url('profile-img.jpeg');
     background-size: cover;  
     margin-top: 20px;
     box-shadow: 5px 5px 30px rgba(0, 0, 0, 1);
